@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.divgl{
+    background-color: #ABA5A5;
+    width: 1290px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.imgb{
+    width: 168px;
+    height: 45px;
+    margin: 36px 72px 35px 72px;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    margin-right: 532px;
+}
+.top:hover{
+    transition: 0.1s;
+    color: red;
+}
+.topp{
+    display: flex;
+    width: 130px;
+    height: 26px;
+    align-items: center;
+    padding-left: 35px;
+    border-radius: 30px;
+    border: 1px solid gray;
+}
+.topp:hover{
+    transition: 0.1s;
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+.toppp{
+    color: #A24949;
+    background-color: #D9D9D9;
+    width: 484px;
+    height: 80px;
+    border-radius: 40px;
+    padding-top: 20px;
+    padding-left: 14px;
+    margin: 44px 325px 0px 341px;
+}
+.toppp:hover{
+    color: white;
+    background-color: red;
+}
+.foto8{
+    background-color: rgb(232, 232, 232);
+    width: 350px;
+    height: 500px;
+    margin-top: 95px;
+    margin-left: 95px;
+    margin-bottom: 146px;
+    border-radius: 15px;
+    display: flex;
+    gap: 96px;
+}
+.h1bro{
+    margin: 31px 120px 28px 125px;
+}
+.pbro{
+    margin-left: 78px;
+}
+.buttonbro{
+    background-color: grey;
+    color: white;
+    width: 183px;
+    height: 36px;
+    margin: 28px 83px 38px 84px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.buttonbro:hover{
+    background-color: #FF0000;
+    color: white;
+    border: 5px solid #00FF94;
+}
+.foto8:hover{
+    background-color: #1400FF;
+}
+.prost{
+    width: 400px;
+    height:215px;
+}
